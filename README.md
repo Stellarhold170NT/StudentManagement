@@ -18,4 +18,4 @@ To compile and run the program, follow these steps:
 - Follow the instructions on the screen to use the program.
   
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE] file for more details.
